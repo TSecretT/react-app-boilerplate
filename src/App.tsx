@@ -5,7 +5,6 @@ import { Home } from './pages';
 
 const App = () => {
 
-
 	return (
 		<Router>
 			<Switch>
